@@ -1,0 +1,13 @@
+Stand-up Meeting
+
+Name: Seoyeon Kim
+Email: seoyeonk@vt.edu
+
+What I did:
+I completed the SE Basics Workshop activities and set up my GitHub repository and Kanban board.
+
+What I need to do next:
+I need to complete HW0 and continue working with my project group.
+
+What is blocking me:
+I am still getting familiar with some of the development tools used in this course, but I currently do not have any major blockers.
