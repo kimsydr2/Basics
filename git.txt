@@ -1,0 +1,8 @@
+1. int cmd_worktree(int ac, const char **av, const char *prefix)
+
+2. 100644 blob f55d4083edd518a0dad26a37ac4d5c6877184c4f tutorial.txt
+This command displays the contents of the Git object, takes the last four lines, and then displays the first of those four lines.
+
+3. l10n: de.po: Update German translation for Git v2.31.0
+
+4. Documentation/RelNotes/2.31.1.txt

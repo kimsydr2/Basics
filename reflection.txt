@@ -1,0 +1,1 @@
+(a) I typically use vs code for programming because it is easy to use an d supports many programming languages. (b) I do not have much experience using vi or other terminal-based editors. This was my first times using vi. (C) Terminal-based editors can be fast and convenientw when oworking directly from the command line.However, I find them less intuitive and harder to navigate.
